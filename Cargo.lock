@@ -58,9 +58,9 @@ dependencies = [
 
 [[package]]
 name = "async-io"
-version = "0.1.8"
+version = "0.1.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ebcd87dcd83e016eeda9d68c54d339668a87689f435e1c5784f9f3e308065d6b"
+checksum = "6a679dff790f7943b4ddd12cf2d00cdadf3db0cb3a370eb2c77723343354e147"
 dependencies = [
  "cfg-if",
  "concurrent-queue",
@@ -260,9 +260,9 @@ dependencies = [
 
 [[package]]
 name = "concurrent-queue"
-version = "1.1.2"
+version = "1.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1582139bb74d97ef232c30bc236646017db06f13ee7cc01fa24c9e55640f86d4"
+checksum = "e296417c8154304ac70aceda41f05318f986f7c0c767bcb0a2366fbb890e78e1"
 dependencies = [
  "cache-padded",
 ]
@@ -511,9 +511,9 @@ dependencies = [
 
 [[package]]
 name = "libc"
-version = "0.2.73"
+version = "0.2.74"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bd7d4bd64732af4bf3a67f367c27df8520ad7e230c5817b8ff485864d80242b9"
+checksum = "a2f02823cf78b754822df5f7f268fb59822e7296276d3e069d8e8cb26a14bd10"
 
 [[package]]
 name = "lock_api"
