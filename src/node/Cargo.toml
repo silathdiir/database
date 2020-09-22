@@ -23,5 +23,5 @@ async-io = "1.1.2"
 protocol = { path = "../protocol" }
 log = "0.4.8"
 simple_logger = { version = "1.9.0", default-features = false }
-async-dup = "1.2.1"
+async-dup = "1.2.2"
 blocking = "1.0.0"
